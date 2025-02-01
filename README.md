@@ -1,7 +1,9 @@
 # 💫 About Me:
-🎓 BTech in Data Science | Dayananda Sagar University | IEEE Member<br>🏆 NASA Space Apps 2024 Winner | 1st Place in IoT Project Competition<br>💡 Passionate about AI, IoT, Data Science
+🎓 BTech in Data Science | Dayananda Sagar University | IEEE Member<br>💡 Passionate about AI, IoT, Data Science<br>
 
-
+  🏆 More : <br>
+     NASA Space Apps Challenge 2024  Global Nominee- AIASTRO <br>
+     https://surl.li/ilhmxq
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/virika-olivia-soans-3727122b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virika06@gmail.com) 
 
