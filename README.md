@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BTech in Data Science | Dayananda Sagar University | IEEE Member<br>💡 Passionate about AI, IoT, Data Science<br>
+🎓 BTech in Data Science | Dayananda Sagar University | IEEE Member<br>💡 Passionate about AI, Data Science<br>
 
   🏆 More : <br>
      NASA Space Apps Challenge 2024  Global Nominee- AIASTRO <br>
